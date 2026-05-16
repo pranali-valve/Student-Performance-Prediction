@@ -185,7 +185,7 @@ Predicted Marks: 67.45
 Add screenshot here:
 
 ```text
-images/webapp.png
+Images/webapp.png
 ```
 
 ---
@@ -195,7 +195,7 @@ images/webapp.png
 Add screenshot here:
 
 ```text
-images/prediction.png
+Images/prediction.png
 ```
 
 ---
